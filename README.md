@@ -1,5 +1,7 @@
 # PRASBase
 
+_Note: This package has been consolidated into https://github.com/NREL/PRAS. This repository is for archival purposes only._
+
 [![Build Status](https://travis-ci.org/NREL/PRASBase.jl.svg?branch=master)](https://travis-ci.org/NREL/PRASBase.jl)
 [![Coverage Status](https://coveralls.io/repos/github/NREL/PRASBase.jl/badge.svg?branch=master)](https://coveralls.io/github/NREL/PRASBase.jl?branch=master)
 
